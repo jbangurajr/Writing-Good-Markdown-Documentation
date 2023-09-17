@@ -163,6 +163,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
   
 ![Photo of the pip character on our keyboard](https://www.computerhope.com/cdn/keyboard/pipe.jpg)
 
+[Secret Window Hidden Garden](https://github.com/omenking/github-docs-example/blob/main/secret-window/hidden-garden.md)
+
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
